@@ -1,0 +1,9 @@
+{
+  "name": "Observer App",
+  "description": "A web application that uses your camera to capture images and leverages the Gemini API to analyze and describe them. This is a web-based interpretation of the remote camera concept, focusing on AI image analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
